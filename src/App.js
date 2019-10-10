@@ -27,6 +27,7 @@ function App() {
         !
       </h2>
       <h3>It seems a nice environment, thus first test!</h3>
+      <h4>and move to the dev branch :)</h4>
       <p>
         <a
           href="https://github.com/zeit/now-examples/tree/master/create-react-app-functions"
