@@ -26,6 +26,7 @@ function App() {
         </a>
         !
       </h2>
+      <h3>It seems a nice environment, thus first test!</h3>
       <p>
         <a
           href="https://github.com/zeit/now-examples/tree/master/create-react-app-functions"
